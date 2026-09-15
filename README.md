@@ -8,7 +8,7 @@ Each is aligned — where an alignment honestly exists — to an
 [NCEES PE discipline](https://ncees.org/exams/pe-exam/), and each cites its
 discipline's professional society and standards-developing organization.
 
-## Qualified review is required
+## Qualified review is required -  THESE SKILLS ARE STILL WORKS IN PROGRESS.  NONE should be considered RELEASED until reviewed and approved by an Engineer Licensed and qualified in the specific discipline.
 
 > ⚠️ **ENGINEERING REVIEW REQUIRED — output from these skills is not a substitute
 > for a qualified engineer.** Every result, calculation, and recommendation
@@ -90,7 +90,7 @@ structure and current completion state.
 | remaining six | Not started |
 
 All four drafts are pending licensed PE review (`TODO.md` §4.1) before
-publication.
+publication.  
 
 ## Attribution
 
